@@ -1,4 +1,4 @@
-from choice_file import choice_number_file
+from choice_number_file import choice_number_file
 
 
 def data_file():
